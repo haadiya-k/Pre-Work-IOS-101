@@ -2,7 +2,7 @@
 
 Submitted by: **Haadiya Khan**
 
-**Pre Work IOS 101** is an app that... displays three labels (name, university, and aspiring profession) and a button that is used to change the background colour of the display.
+**Pre Work IOS 101** is an app that displays three labels (name, university, and aspiring profession) and a button that is used to change the background colour of the display.
 
 Time spent: **1.5** hours spent in total
 
@@ -17,10 +17,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/qyNYHCS' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
