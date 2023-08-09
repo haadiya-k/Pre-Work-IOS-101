@@ -4,7 +4,7 @@ Submitted by: **Haadiya Khan**
 
 **Pre Work IOS 101** is an app that... displays three labels (name, university, and aspiring profession) and a button that is used to change the background colour of the display.
 
-Time spent: **2** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
@@ -30,7 +30,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No major challenges were encountered while building this app. At first it was a bit overwhelming to navigate through XCode but I easily grasped the concepts and finished creating this app.
 
 ## License
 
