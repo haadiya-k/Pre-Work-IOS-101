@@ -36,7 +36,18 @@ WhatsApp
 
 Instagram
 - Story highlights
+- Notes
 
+Snapchat
+- Has mini games
+
+iMessage
+- Editing text messages
+- Has mini games
+
+IDEA:
+
+To create an app that incorperates my favourite features in some chat based apps, such a chat based app that includes editing text messages, sending video messages, notes, and mini games. 
 
 
 ## Notes
