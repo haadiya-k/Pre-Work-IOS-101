@@ -56,7 +56,7 @@ No major challenges were encountered while building this app. At first it was a 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Haadiya Khan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
