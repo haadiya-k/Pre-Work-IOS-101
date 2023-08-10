@@ -17,9 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'https://i.imgur.com/JL1snRo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'https://imgur.com/a/qyNYHCS' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src="https://i.imgur.com/JL1snRo" title="Video Walkthrough" alt="Video Walkthrough" />
 
 https://imgur.com/a/qyNYHCS
 
@@ -31,6 +30,17 @@ GIF created with Kap
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+
+WhatsApp
+- Editing text messages after sending
+- Changing the background in chats to either solid colours or pictures
+- Sending video messages 
+
+
+Instagram
+- Story highlights
+
+
 
 ## Notes
 
